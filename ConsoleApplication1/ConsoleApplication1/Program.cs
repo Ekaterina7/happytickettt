@@ -41,7 +41,7 @@ namespace happy_ticket
                 }
                 else
                 {
-                    Console.WriteLine("not happy");
+                    Console.WriteLine("Not happy");
                 }
 
             }
