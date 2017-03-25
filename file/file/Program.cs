@@ -27,6 +27,7 @@ namespace file
             Console.WriteLine("Количество буквы " + Counter(text, "а"));
             double count = Counter(text, "а");
             double all = text.Length;
+
             Console.WriteLine("Процентное соотношение буквы ко всем символам = " + ProcentSootnochenie(all, count));
             Console.WriteLine();
 
